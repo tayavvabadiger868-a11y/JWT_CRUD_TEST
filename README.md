@@ -364,7 +364,7 @@ assets/register.png
 assets/add-note.png
 ```
 
-![Add Note](assets/demo1.png)
+![Add Note](assets/ demo1.png)
 ---
 
 # Future Improvements
