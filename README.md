@@ -365,6 +365,7 @@ assets/add-note.png
 ```
 
 ![Add Note](assets/demo.png)
+
 ---
 
 # Future Improvements
